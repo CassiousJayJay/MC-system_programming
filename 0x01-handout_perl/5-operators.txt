@@ -1,0 +1,39 @@
+#!/usr/bin/perl
+
+#Arithmetic
++   addition
+-   subtraction
+*   multiplication
+/   division
+
+numeric comparison
+==  equality
+!=  inequality
+<   less than
+>   greater than
+<=  less than or equal
+>=  greater than or equal
+
+String comparison
+eq  equality
+ne  inequality
+lt  less than
+gt  greater than
+le  less than or equal
+ge  greater than or equal
+
+Boolean logic
+&&  and
+||  or
+!   not
+
+Miscellaneous
+=   assignment
+.   string concatenation
+x   string multiplication (repeats strings)
+..  range operator (creates a list of numbers or strings)
+
+combined operators
+$a += 1;        # same as $a = $a + 1
+$a -= 1;        # same as $a = $a - 1
+$a .= "\n";     # same as $a = $a . "\n";
