@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+ls -l | grep ^d
+Allowed editors: vi, vim, emacs
+● All your files will be interpreted on Ubuntu 20.04 LTS
+● All your files should end with a new line
+● A README.md file, at the root of the folder of the project, is mandatory
+● All your Bash script files must be executable
+● The first line of all your Bash scripts should be exactly #!/usr/bin/bash
+● All your regex must be built for the Oniguruma library
+● All Your Bash and Perl scripts should be executable use chmod a+x name_of_file
+Repo:
+● GitHub repository: MC-System_engineering
+● Directory: 0x06-regular_expressions
+Exercise
+
